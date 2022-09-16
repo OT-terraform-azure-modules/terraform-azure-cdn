@@ -74,11 +74,11 @@ Output
 
 ### Contributors
 
-|  [![Anant Chauhan][anant_avatar]][anant_homepage]<br/>[Anant Chauhan][anant_homepage] |
-<!--
-|  [![Vishal][vishal_avatar]][vishal_homepage]<br/>[Vishal][vishal_homepage] |
--->
+|  [![Anant Chauhan][Anant_avatar]][Anant_homepage]<br/>[Anant Chauhan][Anant_homepage] |
 |---|
+|  [![Vishal][vishal_avatar]][vishal_homepage]<br/>[Vishal][vishal_homepage] |
+|---|
+
 
   [anant_homepage]: https://gitlab.com/anant.chauhan1
   [anant_avatar]: https://gitlab.com/uploads/-/system/user/avatar/9372704/avatar.png?width=400
