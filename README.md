@@ -75,7 +75,9 @@ Output
 ### Contributors
 
 |  [![Anant Chauhan][anant_avatar]][anant_homepage]<br/>[Anant Chauhan][anant_homepage] |
+<!--
 |  [![Vishal][vishal_avatar]][vishal_homepage]<br/>[Vishal][vishal_homepage] |
+-->
 |---|
 
   [anant_homepage]: https://gitlab.com/anant.chauhan1
