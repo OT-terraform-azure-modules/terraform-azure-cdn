@@ -1,4 +1,4 @@
-Azure Bastion Host Terraform Module
+Azure CDN (content delivery network) Terraform Module
 =====================================
 
 [![Opstree Solutions][opstree_avatar]][opstree_homepage]
@@ -8,7 +8,7 @@ Azure Bastion Host Terraform Module
   [opstree_homepage]: https://opstree.github.io/
   [opstree_avatar]: https://img.cloudposse.com/150x150/https://github.com/opstree.png
 
-Terraform module which creates Bastion Host on Azure .
+Terraform module which creates cdn profile on Azure .
 
 Terraform versions
 ------------------
